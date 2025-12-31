@@ -21,7 +21,7 @@ The entire board was made with this software! The pictures below are taken from 
 
 <strong>PCB</strong>
 
-<img src="/assets/pcb.svg">
+<img src="/assets/pcb.svg" style="zoom: 350%">
 
 #### JLCPCB
 Here is a sample of what manufacturing the board might cost.
