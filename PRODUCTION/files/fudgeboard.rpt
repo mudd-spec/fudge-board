@@ -1,12 +1,12 @@
-## Footprint report - date 2025-12-31T01:05:44-0600
+## Footprint report - date 2025-12-31T01:59:48-0600
 ## Created by KiCad version 9.0.6
 ## Unit = mm, Angle = deg.
 
 $BeginDESCRIPTION
 
 $BOARD
-upper_left_corner 131.437381 58.551750
-lower_right_corner 158.562620 116.062619
+upper_left_corner 134.250000 61.750000
+lower_right_corner 155.750000 113.250000
 $EndBOARD
 
 $MODULE C1
@@ -466,10 +466,10 @@ $EndPAD
 $EndMODULE  D4
 
 $MODULE G***
-footprint silkscreen_designs:fudge_eating
+footprint silkscreen_designs:fudge_writing
 attribut virtual
-position 141.100000 77.500000  orientation 0.00
-layer front
+position 145.000000 92.000000  orientation 90.00
+layer back
 $EndMODULE  G***
 
 $MODULE G***
@@ -480,10 +480,10 @@ layer back
 $EndMODULE  G***
 
 $MODULE G***
-footprint silkscreen_designs:fudge_writing
+footprint silkscreen_designs:fudge_eating
 attribut virtual
-position 145.000000 92.000000  orientation 90.00
-layer back
+position 141.100000 77.500000  orientation 0.00
+layer front
 $EndMODULE  G***
 
 $MODULE G***

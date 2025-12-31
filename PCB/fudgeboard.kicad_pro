@@ -139,7 +139,7 @@
         "min_track_width": 0.1,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.25,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -465,7 +465,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "DOVE BOARD!.kicad_pro",
+    "filename": "fudgeboard.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -501,8 +501,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "../assets/",
+      "pos_files": "../",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -620,7 +620,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../assets/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
