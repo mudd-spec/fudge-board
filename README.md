@@ -1,5 +1,9 @@
 # fudge board
 ------ 
+## Important!
+This board charges batteries but does NOT run off batteries connected to the BAT and GND terminals. I plan to make a revised version where this is changed.
+
+
 This is an RP2040 dev board created based off the <a href="https://github.com/KaiPereira/build-a-devboard">guide</a> from Blueprint at Hackclub!
 
 ### Features
